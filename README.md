@@ -1,0 +1,1 @@
+The `group` items are sequential and are queued directly as given in this repository. Other items are discovered while crawling, not listed here, and are directly queued back to the tracker during crawling.
